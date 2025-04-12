@@ -1,3 +1,4 @@
+:: courtesy of ChatGPT and libgen.rs
 @echo off
 :menu
 echo Welcome to your fake Linux!
