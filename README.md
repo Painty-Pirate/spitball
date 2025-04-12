@@ -1,11 +1,8 @@
 # spitball
 This is where I say things
-
 # axiom 1
 sharing is caring
-
-<!---
-Icarus began to channel. He held his hands aloft, and a fireball appeared between them. 
+<!---Icarus began to channel. He held his hands aloft, and a fireball appeared between them. 
 What he faced was too terrible for the kind of fireball that a pedistrian mage might channel, so he breathed deeply and steadied his nerve.
 The monster skittered closer. 
 Icarus could not yet see it beyond the light of his fire, but he could hear it. 
@@ -24,5 +21,4 @@ Icarus felt the energy between his hands change form.
 At the heart of the sun, reality warped. 
 The boy's hands were drawn towards the sun, as though they both had suddenly warped into opposite magnetic poles.
 The beast was given pause. 
-Its antenna had never sensed the all-consuming flows that Icarus had inadvertently created in his panic.
---->
+Its antenna had never sensed the all-consuming flows that Icarus had inadvertently created in his panic.--->
