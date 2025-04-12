@@ -8,3 +8,4 @@ if "%cmd%"=="exit" exit
 echo Command not found
 goto menu
 :: icarus casted his fireball
+:: and reality was no more
