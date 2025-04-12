@@ -3,7 +3,7 @@ This is where I say things
 # axiom 1
 sharing is caring
 <!---Icarus began to channel. He held his hands aloft, and a fireball appeared between them. 
-What he faced was too terrible for the kind of fireball that a pedistrian mage might channel, so he breathed deeply and steadied his nerve.
+What he faced was too terrible for the kind of fireball that a pedestrian mage might channel, so he breathed deeply and steadied his nerve.
 The monster skittered closer. 
 Icarus could not yet see it beyond the light of his fire, but he could hear it. 
 A million, no, a billion chitinous limbs dug into the dusted rock at the floor of the cave. 
