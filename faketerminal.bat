@@ -7,3 +7,4 @@ if "%cmd%"=="ls" dir & goto menu
 if "%cmd%"=="exit" exit
 echo Command not found
 goto menu
+:: icarus casted his fireball
